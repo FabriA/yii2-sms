@@ -33,7 +33,7 @@
   },
   "autoload": {
     "psr-4": {
-      "fabria\\sms\\": "src"
+      "fabria\\sms\\": ""
     }
   },
   "extra": {

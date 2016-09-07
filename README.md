@@ -1,4 +1,4 @@
-# yii2-sms
+# yii2-sms // WORK IN PROGRESS
 SMS component for Yii2
 
 Installation
