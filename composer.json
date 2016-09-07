@@ -1,0 +1,44 @@
+{
+  "name": "fabria/yii2-sms",
+  "description": "SMS sender for Yii2",
+  "type": "yii2-extension",
+  "keywords": [
+    "fabria",
+    "yii",
+    "yii2",
+    "yii 2",
+    "extension",
+    "helper",
+    "sms"
+  ],
+  "license": "MIT Licence",
+  "authors": [
+    {
+      "name": "Fabrizio Albonico",
+      "email": "software@albonico.ch",
+      "homepage": "http://software.albonico.ch",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/fabria/yii2-sms/issues",
+    "source": "https://github.com/fabria/yii2-sms"
+  },
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.*",
+    "scrutinizer/ocular": "~1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "fabria\\sms\\": "src"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}
